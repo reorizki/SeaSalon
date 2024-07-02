@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76734222532",
+    "project_id": "salonsea",
+    "storage_bucket": "salonsea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76734222532:android:6b7fa1889df2b0a098b991",
+        "android_client_info": {
+          "package_name": "com.seasalon.seasalon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CpjIEhOucXl9z9NYVxNQk8Pmnwi_60Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
